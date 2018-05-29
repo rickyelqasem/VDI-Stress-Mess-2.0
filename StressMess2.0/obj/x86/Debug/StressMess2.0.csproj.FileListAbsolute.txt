@@ -1,0 +1,10 @@
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\bin\Debug\StressMess2.0.exe
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\bin\Debug\StressMess2.0.pdb
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\StressMess2._0.Form1.resources
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\StressMess2._0.Properties.Resources.resources
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\StressMess2.0.exe
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\StressMess2.0.pdb
+F:\SyncFolder\devwork\StressMess2.0\StressMess2.0\obj\x86\Debug\StressMess2.0.csproj.ResolveComReference.cache
